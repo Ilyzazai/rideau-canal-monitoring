@@ -33,16 +33,16 @@ The monitored conditions are:
 ## Repository Links
 
 ### Main Documentation Repository
-- **URL:** `https://github.com/Ilyzazai/rideau-canal-monitoring`
+- **URL:** https://github.com/Ilyzazai/rideau-canal-monitoring
 
 ### Sensor Simulation Repository
-- **URL:** `https://github.com/Ilyzazai/rideau-canal-sensor-simulation`
+- **URL:** https://github.com/Ilyzazai/rideau-canal-sensor-simulation
 
 ### Web Dashboard Repository
-- **URL:** `https://github.com/Ilyzazai/rideau-canal-dashboard`
+- **URL:** https://github.com/Ilyzazai/rideau-canal-dashboard
 
 ### Video Demo
-- **URL:** `[YOUR_UNLISTED_YOUTUBE_LINK]`
+- **URL:** [YOUR_UNLISTED_YOUTUBE_LINK]
 
 ---
 
