@@ -32,8 +32,8 @@ The monitored conditions are:
 
 ## Repository Links
 
-### Main Documentation Repository
-- **URL:** https://github.com/Ilyzazai/rideau-canal-monitoring
+### Links Repository
+- **URL:** https://github.com/Ilyzazai/rideau-canal-monitoring/blob/main/LINKS.md
 
 ### Sensor Simulation Repository
 - **URL:** https://github.com/Ilyzazai/rideau-canal-sensor-simulation
