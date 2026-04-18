@@ -42,7 +42,7 @@ The monitored conditions are:
 - **URL:** https://github.com/Ilyzazai/rideau-canal-dashboard
 
 ### Video Demo
-- **URL:** [YOUR_UNLISTED_YOUTUBE_LINK]
+- **URL:** https://www.youtube.com/watch?v=leEt8jrVxto
 
 ---
 
